@@ -17,7 +17,7 @@ class _SplashState extends State<Splash> {
         MaterialPageRoute(
           builder: (context) => Onbord(),
         )));
-
+// ddd
     super.initState();
   }
 
